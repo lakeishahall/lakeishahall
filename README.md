@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/tweetsfromkeeks" target="blank"><img src="https://img.shields.io/twitter/follow/tweetsfromkeeks?logo=twitter&style=for-the-badge" alt="tweetsfromkeeks" /></a> </p>
 
-- 🔭 I’m currently working on **Becoming proficient in Javascript**
 
 - 🌱 I’m currently learning **Javascript**
 
