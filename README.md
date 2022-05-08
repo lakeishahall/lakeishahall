@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **lakeisha.hall@outlook.com**
 
-- ⚡ Fun fact **I live off of hot pockets and capri suns.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
