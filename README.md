@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keeks!</h1>
 <h3 align="center">A passionate frontend developer from Philadelphia!</h3>
 
-<p align="left"> <a href="https://twitter.com/tweetsfromkeeks" target="blank"><img src="https://img.shields.io/twitter/follow/tweetsfromkeeks?logo=twitter&style=for-the-badge" alt="tweetsfromkeeks" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_DevKeeks" target="blank"><img src="https://img.shields.io/twitter/follow/tweetsfromkeeks?logo=twitter&style=for-the-badge" alt="tweetsfromkeeks" /></a> </p>
 
 
 - 🌱 I’m currently learning **Javascript**
